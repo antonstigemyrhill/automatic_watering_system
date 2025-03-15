@@ -19,3 +19,7 @@ Necessary other components
 
 1. Watercan:                            1
 2. plastic tubing:                      X(m)    (make sure they fit pump output)
+
+
+
+![moisture_prongs](moisture_prongs.jpg)

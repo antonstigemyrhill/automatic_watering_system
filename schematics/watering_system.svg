@@ -1,7 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Circuit Diagram, cdlibrary.dll 4.0.0.0 -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" width="780" height="560" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" width="860" height="560" xmlns="http://www.w3.org/2000/svg">
+	<text x="800" y="430" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 800, 430)">pump</text>
+	<line x1="790" y1="460" x2="774" y2="460" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="774" y1="450" x2="774" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="768" y1="455" x2="768" y2="465" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="762" y1="450" x2="762" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="756" y1="455" x2="756" y2="465" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="756" y1="460" x2="740" y2="460" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="765" y="448" style="font-family:Arial;font-size:12px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 765, 448)">+9V</text>
 	<text x="210" y="470" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 210, 470)">button manual watering</text>
 	<text x="300" y="30" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 300, 30)">soil moisture measurment</text>
 	<text x="260" y="25" style="font-family:Arial;font-size:12px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 260, 25)"></text>
@@ -17,10 +25,10 @@
 	<text x="640" y="530" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 640, 530)">in1 connection</text>
 	<line x1="620" y1="500" x2="620" y2="540" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="580" y1="540" x2="620" y2="540" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="730" y1="490" x2="750" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="750" y1="460" x2="750" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="680" y1="460" x2="710" y2="460" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="680" y1="490" x2="730" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="810" y1="490" x2="830" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="830" y1="460" x2="830" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="680" y1="460" x2="740" y2="460" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="680" y1="490" x2="810" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<rect x="590" y="420" width="80" height="80" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
 	<ellipse cx="610" cy="480" rx="5" ry="10" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
 	<ellipse cx="615" cy="480" rx="5" ry="10" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
@@ -42,10 +50,10 @@
 	<text x="630" y="430" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 630, 430)">Relay</text>
 	<text x="674" y="436" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 674, 436)">NC</text>
 	<text x="674" y="456" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="baseline" transform="rotate(0, 674, 456)">NO</text>
-	<line x1="710" y1="460" x2="717" y2="460" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="743" y1="460" x2="750" y2="460" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<ellipse cx="730" cy="460" rx="12" ry="12" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
-	<text x="730" y="460" style="font-family:Arial;font-size:12px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 730, 460)">M</text>
+	<line x1="790" y1="460" x2="797" y2="460" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="823" y1="460" x2="830" y2="460" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="810" cy="460" rx="12" ry="12" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="810" y="460" style="font-family:Arial;font-size:12px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 810, 460)">M</text>
 	<line x1="460" y1="450" x2="580" y2="450" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="460" y1="200" x2="460" y2="450" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="310" y1="200" x2="460" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />

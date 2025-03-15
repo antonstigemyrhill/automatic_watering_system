@@ -17,9 +17,10 @@ Necessary electrical components
 Necessary other components
 =====================================
 
-1. Watercan:                            1
+1. Water can:                            1
 2. plastic tubing:                      X(m)    (make sure they fit pump output)
 
 
-
+# Moisture prongs  
+these are basically glorified nails in the soil
 ![moisture_prongs](moisture_prongs.jpg)

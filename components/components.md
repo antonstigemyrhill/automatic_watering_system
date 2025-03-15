@@ -3,7 +3,7 @@ Necessary electrical components
 
 1. Raspberry pico:                      1
 2. Micro USB wire with data transfer:   1
-2. Moisture prongs:                     1       (check schematics)
+2. Moisture prongs:                     1       (check moisture_prongs.png)
 2. Biltema Inline-pump 12V:             1  
 3. SRD-05VDC-SL-C relay:                1
 4. bc546 B transistor:                  1

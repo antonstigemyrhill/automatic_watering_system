@@ -1,26 +1,29 @@
 Necessary electrical components
 =====================================
 
-1. Raspberry pico:                      1
-2. Micro USB wire with data transfer:   1
-2. Moisture prongs:                     1       (check moisture_prongs.png)
-2. Biltema Inline-pump 12V:             1  
-3. SRD-05VDC-SL-C relay:                1
-4. bc546 B transistor:                  1
-5. 100k ohm resistor:                   2
-6. Button:                              1
-8. 9v battery:                          1
-9. 9v battery connector:                1
-7. Bale-female breadboard wire:         3
-8. Breadboard wire:                     X(m)
+| Component                            | Quantity |
+|--------------------------------------|----------|
+| Raspberry Pico                       | 1        |
+| Micro USB wire with data transfer    | 1        |
+| Moisture prongs                      | 1        |  (check moisture_prongs.png)
+| Biltema Inline-pump 12V              | 1        |
+| SRD-05VDC-SL-C relay                 | 1        |
+| bc546 B transistor                   | 1        |
+| 100k ohm resistor                    | 2        |
+| Button                               | 1        |
+| 9V battery                           | 1        |
+| 9V battery connector                 | 1        |
+| Bale-female breadboard wire          | 3        |
+| Breadboard wire                      | X(m)     |
 
 Necessary other components
 =====================================
 
-1. Water can:                            1
-2. plastic tubing:                      X(m)    (make sure they fit pump output)
-
+| Component                            | Quantity |
+|--------------------------------------|----------|
+| Water can                            | 1        |
+| Plastic tubing                       | X(m)     |  (make sure they fit pump output)
 
 # Moisture prongs  
-these are basically glorified nails in the soil
+these are basically glorified nails in the soil  
 ![moisture_prongs](moisture_prongs.jpg)

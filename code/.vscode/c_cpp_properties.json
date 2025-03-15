@@ -8,8 +8,7 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/Users/admin/Documents/PlatformIO/Projects/250303-210337-arduino-blink/include",
-                "c:/Users/admin/Documents/PlatformIO/Projects/250303-210337-arduino-blink/src",
+                "c:/Users/admin/Documents/PlatformIO/Projects/watering_system/code/src",
                 "C:/Users/admin/.platformio/packages/framework-arduino-mbed/cores/arduino",
                 "C:/Users/admin/.platformio/packages/framework-arduino-mbed/cores/arduino/api/deprecated",
                 "C:/Users/admin/.platformio/packages/framework-arduino-mbed/cores/arduino/api/deprecated-avr-comp",
@@ -61,8 +60,7 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/admin/Documents/PlatformIO/Projects/250303-210337-arduino-blink/include",
-                    "c:/Users/admin/Documents/PlatformIO/Projects/250303-210337-arduino-blink/src",
+                    "c:/Users/admin/Documents/PlatformIO/Projects/watering_system/code/src",
                     "C:/Users/admin/.platformio/packages/framework-arduino-mbed/cores/arduino",
                     "C:/Users/admin/.platformio/packages/framework-arduino-mbed/cores/arduino/api/deprecated",
                     "C:/Users/admin/.platformio/packages/framework-arduino-mbed/cores/arduino/api/deprecated-avr-comp",

@@ -1,10 +1,8 @@
-How to build PlatformIO based project
+How to build an automatic watering system:
 =====================================
 
-1. [Install PlatformIO Core](https://docs.platformio.org/page/core.html)
-2. Download [development platform with examples](https://github.com/platformio/platform-raspberrypi/archive/develop.zip)
-3. Extract ZIP archive
-4. Run these commands:
+1. Buy necessary hardwate in: /hardware
+2. Connect everything according to: /schematics/watering_system.svg
 
 ```shell
 # Change directory to example

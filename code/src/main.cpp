@@ -31,7 +31,7 @@ void check_moisture_and_water(){
   float voltage=analogRead(input_soil)*3.3/1023;
   
   //automatic water if voltage low
-  if (voltage<0.8){
+  if (voltage<1.0){
     digitalWrite(trigger_relay,HIGH);
     digitalWrite(LED_BUILTIN,HIGH);
     delay(8000);

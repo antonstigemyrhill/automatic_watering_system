@@ -69,10 +69,17 @@ void loop() {
 
   //manual water with button press
   if(manual_water==1){
+    digitalWrite(output_soil,HIGH); 
     digitalWrite(trigger_relay,HIGH);
     digitalWrite(LED_BUILTIN,HIGH);
     
     Serial.println("Manual watering: ");
+    float voltage=analogRead(input_soil)*3.3/1023;
+
+    Serial.print("Voltage in is: "); 
+    Serial.println(voltage);
+    
+    digitalWrite(output_soil,LOW); 
     
   }
   else{
